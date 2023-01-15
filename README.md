@@ -25,8 +25,8 @@ Evento promovido pela Rocketseat para ensino de tecnologias WEB.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- Figma
 - Git e Github
+- Figma
 
 ## 💻 Projeto
 
