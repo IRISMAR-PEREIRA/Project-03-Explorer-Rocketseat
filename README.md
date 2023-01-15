@@ -53,7 +53,7 @@ O Projeto-03 foi destinado a apresentar conceitos básicos de HTML e CSS. Nesse 
 
 Esse projeto está sob a licença MIT.
 <br/>
-Esse projeto pode ser visualizado pelo link: https://irismar-pereira.github.io/Project-03-Explorer-Rocketseat/
+Esse projeto pode ser visualizado pelo Link: https://irismar-pereira.github.io/Project-03-Explorer-Rocketseat/
 
 ---
 
