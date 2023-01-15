@@ -11,8 +11,10 @@ Evento promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/109491659/211703254-80a2d43d-3f42-4097-9266-cdf13c8eb33a.png">
-  
+  <img alt="License" src="https://user-images.githubusercontent.com/109491659/212522964-53a4ee3a-91ae-4734-bcff-91563a3b5bdd.png"> 
+  <br/>
+  <img alt="License" src="https://user-images.githubusercontent.com/109491659/212522965-56d477a9-dafe-4c93-88e3-ca73d164ee3d.png">
+    
   
 </p>
 
